@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="vista_usuario.xsl"?>
+<clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<cliente>
+		<id>1</id>
+		<dni>52462074V</dni>
+		<usuario>Angelic</usuario>
+		<nombreApellidos>Signe I. Brown</nombreApellidos>
+		<direccion>Apartado núm.: 777, 8690 Sed C.</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>2</id>
+		<dni>00508720Y</dni>
+		<usuario>Asta</usuario>
+		<nombreApellidos>Wing H. Crosby</nombreApellidos>
+		<direccion>3878 Lobortis Ctra.</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>3</id>
+		<dni>58765044K</dni>
+		<usuario>Brio</usuario>
+		<nombreApellidos>Caryn Jensen</nombreApellidos>
+		<direccion>Apartado núm.: 204, 1391 Nunc Avda.</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>4</id>
+		<dni>94108261N</dni>
+		<usuario>Chilled</usuario>
+		<nombreApellidos>Hector Espinoza</nombreApellidos>
+		<direccion>582-9296 Ipsum Calle</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>5</id>
+		<dni>23733942N</dni>
+		<usuario>Danio</usuario>
+		<nombreApellidos>Ashton N. Middleton</nombreApellidos>
+		<direccion>799-3221 Sed C/</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>6</id>
+		<dni>12844218Y</dni>
+		<usuario>Fugio</usuario>
+		<nombreApellidos>Colin Wilkinson</nombreApellidos>
+		<direccion>Apdo.:248-955 Tincidunt, Avda.</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>7</id>
+		<dni>60074269V</dni>
+		<usuario>Gossip</usuario>
+		<nombreApellidos>Diana W. Stark</nombreApellidos>
+		<direccion>7674 Eget, Av.</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>8</id>
+		<dni>61004754Z</dni>
+		<usuario>Helio</usuario>
+		<nombreApellidos>Alexa Mckenzie</nombreApellidos>
+		<direccion>4170 Quisque Av.</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>9</id>
+		<dni>15797390R</dni>
+		<usuario>Ldid23</usuario>
+		<nombreApellidos>Myles Ballard</nombreApellidos>
+		<direccion>Apartado núm.: 243, 8521 Posuere Carretera</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>10</id>
+		<dni>30682067K</dni>
+		<usuario>Mama22</usuario>
+		<nombreApellidos>Eden Haynes</nombreApellidos>
+		<direccion>617-1096 Sed Av.</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>11</id>
+		<dni>02642977R</dni>
+		<usuario>ActuallyUsuario</usuario>
+		<nombreApellidos>Tiger G. Meadows</nombreApellidos>
+		<direccion>117-3297 Magna </direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>12</id>
+		<dni>08534220R</dni>
+		<usuario>BeeUsuario</usuario>
+		<nombreApellidos>Macon T. Dejesus</nombreApellidos>
+		<direccion>339-8824 Nam </direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>13</id>
+		<dni>17293695H</dni>
+		<usuario>DeckUsuario</usuario>
+		<nombreApellidos>Jordan Lowe</nombreApellidos>
+		<direccion>Apartado núm.: 537, 7961 Velit. Calle</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>14</id>
+		<dni>78596359T</dni>
+		<usuario>EliteUsuario</usuario>
+		<nombreApellidos>Alana I. Stanton</nombreApellidos>
+		<direccion>797-4592 Penatibus Av.</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>15</id>
+		<dni>42297618C</dni>
+		<usuario>EternalUsuario</usuario>
+		<nombreApellidos>Emery L. Guerra</nombreApellidos>
+		<direccion>Apartado núm.: 617, 606 Rhoncus Avenida</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>16</id>
+		<dni>70411237A</dni>
+		<usuario>JavaUsuario</usuario>
+		<nombreApellidos>Howard Hickman</nombreApellidos>
+		<direccion>223-1740 Ridiculus C/</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>17</id>
+		<dni>70896870Z</dni>
+		<usuario>ManiakUsuario</usuario>
+		<nombreApellidos>Blake Bartlett</nombreApellidos>
+		<direccion>386-3739 Ac Calle</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>18</id>
+		<dni>11421614K</dni>
+		<usuario>MundeUsuario</usuario>
+		<nombreApellidos>Mary S. Barrera</nombreApellidos>
+		<direccion>Apdo.:919-5555 Sit Carretera</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>19</id>
+		<dni>84612000Z</dni>
+		<usuario>OnlineUsuario</usuario>
+		<nombreApellidos>Wesley X. Herrera</nombreApellidos>
+		<direccion>8670 Mauris C.</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>20</id>
+		<dni>50753884Z</dni>
+		<usuario>SheerUsuario</usuario>
+		<nombreApellidos>Hector Z. Wood</nombreApellidos>
+		<direccion>7050 Sapien. C/</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>21</id>
+		<dni>14017696R</dni>
+		<usuario>TinnyUsuario</usuario>
+		<nombreApellidos>Mark Brewer</nombreApellidos>
+		<direccion>Apartado núm.: 680, 7663 Massa Av.</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>22</id>
+		<dni>13154589S</dni>
+		<usuario>Usuariona</usuario>
+		<nombreApellidos>Vera J. Benton</nombreApellidos>
+		<direccion>3391 Proin Av.</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>23</id>
+		<dni>67179402J</dni>
+		<usuario>Usuarions</usuario>
+		<nombreApellidos>Timothy F. Espinoza</nombreApellidos>
+		<direccion>Apdo.:613-6454 Fusce Ctra.</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>24</id>
+		<dni>58540429R</dni>
+		<usuario>UsuarioRadio</usuario>
+		<nombreApellidos>Lucas Bruce</nombreApellidos>
+		<direccion>609-8479 Rutrum C.</direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+	<cliente>
+		<id>25</id>
+		<dni>79259379E</dni>
+		<usuario>UsuarioSnowboard</usuario>
+		<nombreApellidos>Amir Sellers</nombreApellidos>
+		<direccion>6194 Sed </direccion>
+		<contrasena>password</contrasena>
+		<admin>0</admin>
+	</cliente>
+</clientes>

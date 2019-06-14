@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="carrito.xsl"?>
+<vista_usuario_carrito xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<carrito>
+		<ID>1</ID>
+		<Nombre>Boligrafos</Nombre>
+    <NumeroUnidades>2</NumeroUnidades>
+    <Precio>€1,62</Precio>
+	</carrito>
+  <carrito>
+    <ID>1</ID>
+    <Nombre>USBs</Nombre>
+    <NumeroUnidades>6</NumeroUnidades>
+    <Precio>€2,39</Precio>
+  </carrito>
+  <carrito>
+    <ID>1</ID>
+    <Nombre>Tomates</Nombre>
+    <NumeroUnidades>8</NumeroUnidades>
+    <Precio>€1,40</Precio>
+  </carrito>
+  <carrito>
+    <ID>1</ID>
+    <Nombre>Aceitunas</Nombre>
+    <NumeroUnidades>3</NumeroUnidades>
+    <Precio>€2,55</Precio>
+  </carrito>
+  <carrito>
+    <ID>1</ID>
+    <Nombre>Detergente</Nombre>
+    <NumeroUnidades>4</NumeroUnidades>
+    <Precio>€1,03</Precio>
+  </carrito>
+</vista_usuario_carrito>

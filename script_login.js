@@ -14,6 +14,9 @@
 window.addEventListener("load", function(event) {
     console.log("¡Todos los recursos terminaron de cargar!");
 
+    alert("Para probar la aplicación, use la siguiente información: "+
+    	'Usuario:Contraseña:Rol; Gerente, Gerente123, Administrador; Pedro, Pedro123, Administrador; Cliente, Cliente123, Usuario; Elias, Elias123, Usuario	');
+
     //Ejecuto ahora las acciones necesarias
     cargar(event);
     
